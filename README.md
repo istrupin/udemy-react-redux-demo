@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Tutorial from [Redux](https://www.udemy.com/react-redux/)?
+Tutorial from [Redux](https://www.udemy.com/react-redux/)
 
 
 
